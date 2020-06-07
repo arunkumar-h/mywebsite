@@ -65,7 +65,7 @@ header {
 
 header ul {
     display: inline-block;
-    background: rgb(255, 255, 255);
+    background: rgb(240, 237, 240);
     text-align: center;
     padding: 10px;
     margin: 0;
@@ -210,8 +210,8 @@ footer {
 }
 
 .btn-rounded-white:hover {
-    color: #3498db;
-    background: #fff;
+    color: #f4f8fa;
+    background: rgb(77, 75, 75);
     text-decoration: none
 }
 
@@ -283,7 +283,7 @@ footer {
 }
 
 #lead-content h2 {
-    color: #a0cfee;
+    color: #5594be;
     font-weight: 500;
     font-size: 2.25em;
     margin-bottom: 15px
@@ -380,7 +380,7 @@ footer {
     right: auto;
     height: 100%;
     width: 3px;
-    background: #3498db;
+    background: #424141;
     z-index: 0
 }
 
@@ -389,8 +389,8 @@ footer {
     content: '';
     width: 3px;
     height: 40px;
-    background: #3498db;
-    background: linear-gradient(to bottom, #3498db, rgba(52, 152, 219, 0));
+    background: #424141;
+    background: linear-gradient(to bottom, #313335, rgba(52, 152, 219, 0));
     top: 100%;
     left: 303px
 }
@@ -436,7 +436,7 @@ footer {
     color: #fff;
     width: 50px;
     height: 50px;
-    background: #3498db;
+    background: #424141;
     border-radius: 50%;
     float: left;
     z-index: 99;
