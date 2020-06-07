@@ -1,7 +1,6 @@
 {
     "name": "mywebsite",
     "version": "1.0.0",
-    "description": "",
     "main": "index.js",
     "scripts": {
         "deploy": "gh-pages -d dist"
@@ -9,8 +8,17 @@
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "homepage": "https://arunkumar-h.github.io/",
+    "homepage": "https://arunkumar-h.github.io/portfolio",
     "dependencies": {
         "gh-pages": "^3.0.0"
-    }
+    },
+    "devDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/arunkumar-h/portfolio.git"
+    },
+    "bugs": {
+        "url": "https://github.com/arunkumar-h/portfolio/issues"
+    },
+    "description": ""
 }
